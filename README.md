@@ -1,6 +1,6 @@
 ## Emma's Epic TODO List!!!
 My project is your standard electronic to-do list. In order to submit a task, a task AND a due date must be entered.
-The user can chose to cross out tasks or delete them entirely. The user may also edit their tasks after they have been entered with a double click.
+The user can chose to cross out tasks or delete them entirely. The user may also edit their tasks after they have been entered
 
 Style Guide:
 - Theme: Nature-y, relaxing-ish (todo lists are stressful!)
@@ -19,6 +19,8 @@ Style Guide:
     > This project was heavily inspired by the video at this link: https://www.youtube.com/watch?v=G0jO8kUrg-I
     > I got a lot of help with the extra JavaScript from this link: https://www.w3schools.com/js/default.asp, and otherwise 
     users on stack overflow.
+
+
 
 ## Technical Achievements
 - **Show Existing Data** All tasks, whether or not they are completed, and when they are due are all visible to the user at any time.
